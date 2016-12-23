@@ -1,0 +1,2 @@
+{"_id":{"$oid":"585b7786b8ee7c350d1b46fc"},"text":"Test text!","author":"You","__v":0}
+{"_id":{"$oid":"585b9bea2a20cf3886a77ac5"},"text":"Hello there!","author":"Another Person","__v":0}
